@@ -1,0 +1,13 @@
+h1{
+    color: blueviolet;
+    font-size: 100px;
+}
+div{
+    color: blue !important;
+}
+.d1{
+    padding: 20px;
+}
+.d2{
+    margin: 40px;
+}
